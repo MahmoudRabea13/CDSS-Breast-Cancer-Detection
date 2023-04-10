@@ -1,5 +1,5 @@
 # Cancer Prediction
-Predict whether breast cancer is benign or malignant using 'Breast Cancer Wisconsin (Diagnostic)' Data Set.
+Predict whether breast cancer is benign or malignant using **Breast Cancer Wisconsin (Diagnostic)** Dataset.
 ________________________________
 ### Used algorithms:
 
