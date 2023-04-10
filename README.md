@@ -1,2 +1,7 @@
-# CDSS_Project
-Build classification models to predict whether breast cancer is benign or malignant in Breast Cancer Wisconsin (Diagnostic) Data Set 
+# Cancer Prediction
+Predict whether breast cancer is benign or malignant using 'Breast Cancer Wisconsin (Diagnostic)' Data Set.
+
+### Used algorithms
+- SVM
+- Decision Tree
+- Logistic Regression
