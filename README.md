@@ -14,7 +14,7 @@ ________________________________
 ### <a href="https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data">Dataset Link</a>
 
 
-### Task Submitted by 3rd year SBME2024 students:
+### Submitted by 3rd year SBME2024 students:
 * [Aya Amr](https://github.com/ayaamrr) 
 * [Sara Ayman](https://github.com/SaraElwatany) 
 * [Shuaib Abdelsalam](https://github.com/ShuaibSaleh)
